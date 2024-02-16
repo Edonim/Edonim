@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edonim
-- 👀 I’m interested in Learning Python and C++ for both harmony scripts and games
-- 🌱 I’m currently trying to study Python for Harmony
+- 👀 I’m interested in Learning Javascript and python
+- 🌱 I’m currently studying javascript
 
 - 💻 doing my best, one line at the time
 <!---
